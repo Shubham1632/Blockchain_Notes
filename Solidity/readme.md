@@ -1,5 +1,5 @@
-Solidity-
-
+Solidity:
+---
 - What is Solidity-
 	- a programming language that is used to write smart contract on the ethereum blockchain
 	- build with with reference from c++, python, and javascript ( has features of these languages)
